@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Maliek News App"
+subtitle: Support sustainable apps while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Maliek ?
